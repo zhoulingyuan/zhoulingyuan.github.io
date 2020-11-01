@@ -4,6 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width>, initial-scale=1.0">
     <title>课程表</title>
+<style>
+        body {
+            background-image: url(back.jpg);
+            background-repeat: no-repeat;
+            background-size: 100%;
+        }
+        
+        div {
+            font-size: large;
+            font-size: bold;
+            color: rgb(158, 229, 238);
+        }
+        
+        img {
+            max-width: 20%;
+            height: 20%;
+        }
+    </style>
 </head>
 <body>
     <br>
@@ -22,6 +40,4 @@
      <tr>         <th>19:00-20:40</th> <td></td>             <td>计算机程序设计基础</td>     <td></td>            <td></td>              <td></td>        <td></td>   <td></td>  </tr>
     </tbody>
     </table> 
-    <body background="url(back.jpg)"style=" background-repeat:no-repeat ;background-size:100% 100%;background-attachment: fixed;">  
-    </body>
 </html>
