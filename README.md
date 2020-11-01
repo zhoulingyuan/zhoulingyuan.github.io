@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -22,6 +22,6 @@
      <tr>         <th>19:00-20:40</th> <td></td>             <td>计算机程序设计基础</td>     <td></td>            <td></td>              <td></td>        <td></td>   <td></td>  </tr>
     </tbody>
     </table> 
-    <body background="images/图2.jpg"style=" background-repeat:no-repeat ;background-size:100% 100%;background-attachment: fixed;">  
+    <body background="url(back.jpg)"style=" background-repeat:no-repeat ;background-size:100% 100%;background-attachment: fixed;">  
     </body>
 </html>
